@@ -81,9 +81,9 @@ class AppComponent extends React.Component {
                 <tr>
                   <th>uuid</th>
                   <th>gender</th>
-                  <th><a onClick={this.sortColumn.bind(this, 'age')}>age</a></th>
+                  <th><a onClick={this.sortColumn.bind(this, 'age')}>{this.props.order && this.props.order.field === 'age' ? this.props.order.direction === 'desc' ? '⬇' : '⬆' : ''} age</a></th>
                   <th>distance (km)</th>
-                  <th><a onClick={this.sortColumn.bind(this, 'rate')}>rate</a></th>
+                  <th><a onClick={this.sortColumn.bind(this, 'rate')}>{this.props.order && this.props.order.field === 'rate' ? this.props.order.direction === 'desc' ? '⬇' : '⬆' : ''} rate</a></th>
                 </tr>
               </thead>
               <tbody>
