@@ -1,0 +1,25 @@
+div.this {
+  max-width: 1000px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+div.filters {
+  width: 30%;
+  float: left;
+  background-color: rgba(0, 0, 0, 0.02)
+}
+
+div.data {
+  width: 70%;
+  float: left;
+  * table {
+    background-color: rgba(0, 0, 0, 0.02);
+    > tbody {
+      background-color: white;
+    }
+    * th {
+      padding: 3px 6px;
+    }
+  }
+}

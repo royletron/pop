@@ -1,0 +1,494 @@
+exports[`test should display a ranger 1`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should not update the ranger when max range is increased 1`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should not update the ranger when max range is increased 2`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should not update the ranger when min range is decreased 1`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should not update the ranger when min range is decreased 2`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should update the ranger when max range is decreased 1`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should update the ranger when max range is decreased 2`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        60
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should update the ranger when min range is increased 1`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        16
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test should update the ranger when min range is increased 2`] = `
+<div
+  className=""
+  style={undefined}>
+  <div
+    className="">
+    Age
+  </div>
+  <div
+    className=""
+    onClick={[Function bound ]}
+    onMouseDown={[Function bound ]}
+    style={
+      Object {
+        "position": "relative"
+      }
+    }>
+    <div
+      className="handle handle-0 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 1
+        }
+      }>
+      <div
+        className="">
+        22
+      </div>
+    </div>
+    <div
+      className="handle handle-1 "
+      onMouseDown={[Function bound ]}
+      onTouchStart={[Function bound ]}
+      style={
+        Object {
+          "left": "0px",
+          "position": "absolute",
+          "willChange": "",
+          "zIndex": 2
+        }
+      }>
+      <div
+        className="">
+        74
+      </div>
+    </div>
+  </div>
+</div>
+`;
